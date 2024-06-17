@@ -1,0 +1,19 @@
+body {
+    background: rgb(182, 234, 238);
+}
+
+
+#box {
+    border-radius: 8px;
+    padding: 10px;
+    padding-top: 0;
+    display: grid;
+    gap: 5px;
+    background: white;
+    color: black;
+    border: 1px solid gray;
+    width: 400px;
+    position: absolute;
+    left: 35%;
+    top: 25%;
+}
